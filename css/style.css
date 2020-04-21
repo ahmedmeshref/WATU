@@ -1,0 +1,79 @@
+
+body {
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-instagram {
+    background: #C13584;
+    color: white;
+}
+
+
+/* whatsapp */
+.fa-whatsapp {
+    background: #075E54;
+    color: white;
+}
+
+
+#social_media {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 15px;
+}
+
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:55%;  
+    font-weight: bold;
+}
+
+.img {
+    width: 60%;
+    height: 40%;
+    max-height: 40%;
+    border-radius:  50px 50px 15px 15px; /* top left, top right, bottom right, bottom left */
+    margin-top: 7px;
+}
+
+
+.contacts {
+    text-align: center;
+    font-size: 20px;
+    color: #008000;
+
+}
